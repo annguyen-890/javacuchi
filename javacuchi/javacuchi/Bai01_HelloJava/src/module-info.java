@@ -4,5 +4,5 @@
 /**
  * 
  */
-module MyClass {
+module Bai2_NhapXuat {
 }
